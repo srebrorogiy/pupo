@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(224, 79, 79);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  background: #000000;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.square {
+  width: 16px;
+  height: 16px;
+  background: cornsilk;
+}

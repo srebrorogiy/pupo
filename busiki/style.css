@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    font-family: 'Orienta', sans-serif;
+}
+
+.orange {
+/* Ellipse 5 */
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    left: 0px;
+    top: 350px;
+    background: linear-gradient(11deg, rgba(56, 14, 14, 0.9) 27.02%, #C20101 41.46%, #FF7A00 56.35%, #FFB877 67.72%);
+    filter: blur(71px);
+}
+
+.purple {
+    /* Ellipse 6 */
+    position: absolute;
+    width: 800px;
+    height: 428.15px;
+    left: -20.3px;
+    top: 600px;
+
+    background: linear-gradient(16.72deg, #8C69EE 18.18%, #362E4E 47.09%, rgba(20, 20, 20, 0.99) 75.17%);
+    filter: blur(64px);
+    transform: rotate(-2.74deg);
+
+}
+
+.green {
+    /* Ellipse 7 */
+
+    position: absolute;
+    width: 490.45px;
+    height: 444.89px;
+    left: 1332.38px;
+    top: 250px;
+
+    background: #8CE249;
+    filter: blur(84px);
+    transform: rotate(179.23deg);
+
+}
+
+.section { 
+    font-size: 64px;
+    text-align: center;
+    
+}
+
+.main {
+    color: #E4CFCF;
+    ;
+}
+.second {
+    color: #7D6F6F;
+}
+/* .line1 {
+    position: absolute;
+    width: 662.77px;
+    height: 1069.84px;
+    left: 662.67px;
+    top: -2.44px;
+
+    border: 1px solid #535353;
+    transform: matrix(-1, 0.01, 0.01, 1, 0, 0);
+} */
