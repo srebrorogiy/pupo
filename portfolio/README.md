@@ -1,1 +1,1 @@
-# srebrorogiy.github.io
+# learning and first projects
