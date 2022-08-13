@@ -1,2 +1,2 @@
 # pupo
-small projests for learn and myself
+small projests for learning
